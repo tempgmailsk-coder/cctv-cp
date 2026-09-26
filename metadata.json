@@ -1,0 +1,6 @@
+{
+  "name": "CP Guard - CCTV Sentinel",
+  "description": "Smart CCTV security automation and person detection surveillance for CP PLUS DVR/NVR systems with instant alert clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
